@@ -1,1 +1,1 @@
-print('hello world');
+print('test python app');
