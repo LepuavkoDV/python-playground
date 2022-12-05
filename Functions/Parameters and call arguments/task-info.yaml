@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 145
-    length: 14
+    length: 73
     placeholder_text: '# Define a function named "square" that prints square of passed
       parameter'
     initial_state:
       length: 73
       offset: 145
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: ah4ZKlclxY61/lU4IDAEpg==
   encrypted_text: E77CYHXyzoSdXqERE2/BR0KJJZTDdU2DNDBtyizFvlMZm1S/c2+7iZa6iih6/Dkph+gNOuM59Vtlnn0JXmjqqB8DPQHu/2EMPQvkCE84bLt17828dMbTarILEUblFeiaPx7FhjymC1teXzl74PDXHkrDN3iLatcqxAMIPNI5hExA0oP+eUDEqwiM4MYpvMw1+qKJn0Nd4lWYZtIUDwU0c85yd2JH1/DdcSLwmiPNn4ndoT+kelnRXPu7/lyDojRA57kTTP74x5lIUCzPPwO7eCQxCx5H+ztEml/h8IzC9v7ffTWFMltRnRG048Oc7Df+XmBXK8IF5jcdugf6p1wFg13hgtlXoVR7aHD2nPl7f6q5NjXsxCy8E0PXJLUyZvos4pwJLWuyZdTPbKlyZtgaww==
@@ -24,5 +24,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Fri, 02 Dec 2022 12:21:12 UTC"
+  time: "Mon, 05 Dec 2022 10:24:48 UTC"
 record: -1

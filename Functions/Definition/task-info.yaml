@@ -13,14 +13,14 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 9juGvgvuYLka0TC1OiolUQ==
-  - offset: 286
-    length: 10
+  - offset: 267
+    length: 60
     placeholder_text: '# Define a function named "fun" to replace three lines above'
     initial_state:
       length: 60
       offset: 267
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: Sq6e3XwEUlSArfQofqPQdg==
   encrypted_text: KDe3tS4tR4YVwI9acBXf5UGAdySzv12abT4jCHW2OqG6kTqZX/EoyLbJx9mHiTe4y1PfZpHI1eRJ2iWGBJjp7X6j0iICeWueYAmZUT2MF6OlvliIHF+Gzqf7kV7+K5S9Zwi37lHGvlHbblE5LWgDyHCj9U8PzoXM0a7y2q97mgoj5YyHnrxI1tJjmAbcxhWHNiYOIICHffLryIhQqTWDeDuyFqa+wNWpRma5FD3TnkmEP2xHK5T/Rz/u/nkQQlGC1qO4wVmC2HjpkUycuhsGKiQoMLKpwv1ttdOCp/NZGUcq61fK4Sie1+ZVe40gmwBZal94ZOui1NZZCsG0djKURqm+30eAtySmN9RFvwQx5d+qifIEAfBw93QjjTBkPfXrGAehiJ64JMBl7gUYyBa5hubh7hDypzVZXDwpfOZxZku1yCuAdCo6clQdzFU1Koi1CskS2NOUqPqHF9dPFvNLSOdXMYjzFG4X5EMuF1L63HvQaexJCrUGYYxt7B8w7VC3vOzIe6jaaqsQ8RB+YUwQNQ==
@@ -33,5 +33,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Fri, 02 Dec 2022 12:20:33 UTC"
+  time: "Mon, 05 Dec 2022 10:24:46 UTC"
 record: -1

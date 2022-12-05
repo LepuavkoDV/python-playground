@@ -4,23 +4,23 @@ files:
   visible: true
   placeholders:
   - offset: 182
-    length: 64
+    length: 35
     placeholder_text: '# Add a condition for interruption.'
     initial_state:
       length: 35
       offset: 182
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: MfLcSJ5EIrHdMFsleH+Oqg==
-  - offset: 255
+  - offset: 226
     length: 47
     placeholder_text: '# Add a statement that will terminate the loop.'
     initial_state:
       length: 47
       offset: 226
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: +rreWeLZ2/PtWdFPxkaAAA==
   encrypted_text: JhhFIfdO5WKuHj71HiB4wk0BuTG8EgB2pOQg39FLwqA8FMSfHL0SuXAd0tfwgZ5nSUhpl4Lop766YQBGdcgBF7dEGv9OschpGvTBAvp+0ZcxvJsXWLw6fMwfrZTOFYRmXlYQjDaKrZGDWtJSMhvjf5o2DcmGhuF5iUJnMF3lvsc6hc+G69YRwbRK7uv5AWaY2fwY9MSFU83SRFQ5jK5wTaCwdUmudJnON1QCU6UGITZLzNXd5QIy9Bu72mHYPh1sfKTFh9jqzwZxm5X8qaYuJI9IuIBp+CqfjwlInU8pCnw+qUYqIFxl1i/OXsEujiBSkz4moFBqkWyrtHQq9C18oGPMsWtbH2r62AQSgoRTylFkpdPmtMNaW9+RgTiMCmXTwThu7cCL83ST5KCIp8DrIRmkH13xzdT3H0bVu9ye90gWqT02vh2wt0CUYQA4ZMW+98PqGF6HWdqW9eLUQZSoXS9lC0zICHss/Lj8HSlZ6mY=
@@ -37,5 +37,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Fri, 02 Dec 2022 12:10:13 UTC"
+  time: "Mon, 05 Dec 2022 10:24:36 UTC"
 record: -1
