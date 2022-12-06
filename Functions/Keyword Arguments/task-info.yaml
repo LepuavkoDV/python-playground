@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 236
-    length: 41
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 236
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: Rax/Pt4q7pl+ey9Qum3DWFHXUaOeouvk/cMpW9ESUFBjN8T8MHXxyHalbvYGvA16
   encrypted_text: MCxyzNg2XMs3K7nH+JfPuK+g2cPsJQo/M416xk/umJDQk927JpV/Lro8asJ+Gnrt7LrxZ8wVOfiwRh1UKgWnkrr42W+HsUIJe3xtj0apW+P7Ays/rav3x07Co4mtP1ve44kI2YKF4tLmWza67NY2ls9k+MyL/zzapD0s1mDJMhyS+wN5b5nU6Lu8PGbsE0wGg9Egs8bitq1iQt+UDeL2jh1j/fpkG99wkSqL+jopPfHNMvwtvuWjiqDYscbbByHbsBQCfw5TZjlaQsP1anOijKRTgcWKN2+I829FXA/IQlWQP4Db7nNrB4304itzNzh10ROohZUcNRJaN/tdSo6iNg==
@@ -23,5 +23,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Mon, 05 Dec 2022 10:28:51 UTC"
+  time: "Mon, 05 Dec 2022 14:31:35 UTC"
 record: -1
