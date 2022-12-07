@@ -3,25 +3,25 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 65
-    length: 38
+  - offset: 64
+    length: 19
     placeholder_text: '# Call func() from the imported module'
     initial_state:
       length: 38
       offset: 65
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: kIrCcjkicVvy4nL54Zkghk145IGEuBrv8xmPrCH/jMI=
-  - offset: 127
-    length: 69
+  - offset: 122
+    length: 87
     placeholder_text: print('This should be printed ONLY when task.py is called directly.')
     initial_state:
       length: 69
       offset: 127
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: eferBCJRUpIZ4ayufvWxuSzxvyxK+MoYXDHuKgRndPwfSFXYG8XfTQ3z89hPXXSG4ZEm6Xb4EAJM27GtakJ1RyozLCTKg4acSl4cpS9k/0X9YRB4KygqfBagbGeBeJMwyNCHAGZYjd5JnjwSRpNyCQ==
   encrypted_text: ZZAe7Q81OUDVqZsAwu6CCUpv6pJwlEJyfTrHQbqpKuGBG9OYNmh3Y6yYy+Gl7HRcYCM9bkRmr3cdaNdM4OsYaftR+4QqBwAdAHTG7h2cQvMaBGBsFUTB4lyB+sSiYEeUAzJYBJxR52AVe6MhyXJZD9XvCAYKSyNBqXvxvKxM8EffumRmQsPK4dCpynli3vXJled3FY6+psboYCZ0JcahA4vPiSQ4x8JlLM6XpRQXxsizHZ1nw1z7OtHeOhBG7oRq2/WzzI1Cj2e8h+rdUkY86Q==
   learner_created: false
@@ -40,18 +40,21 @@ files:
 - name: some_module.py
   visible: true
   placeholders:
-  - offset: 174
-    length: 35
+  - offset: 201
+    length: 39
     placeholder_text: print('This should not be printed')
     initial_state:
       length: 35
       offset: 174
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: eferBCJRUpIZ4ayufvWxuSzxvyxK+MoYXDHuKgRndPwfSFXYG8XfTQ3z89hPXXSGRhTbUNUG35ABRGQlmW7IurfLnYBvEwRV5ijGOLOFcdQ=
   encrypted_text: g/eN64d904gjY2lcInQATg+p+gz6F1s+/UlFWVh7lM8Es7lhsgQNJ/Ymt4+NT5jckN+NZsopcUKCnE/Ie0AQQvgP8RNwBDLcxaBvZTpFSKePD6q0d//XOMavSkKR2fyu68AsExjqQEUCPFNzBYx4sQguUy3Omo4imyyMy6nJ+gfUK9L7W/4hmU8FOcxTZAsJDyr0PvuMdXCig4HeJWS+D5x/eVt48ljAfd801aenDNVgjnztI0BCav3EFssedUkZNuWeZZQaiGKlI0swSk4WmFW3u6Hl68MsXAo4m/bxAUs=
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Modules+and+Packages+/+Executing+modules+as+scripts
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 07 Dec 2022 09:48:29 UTC"
 record: -1
